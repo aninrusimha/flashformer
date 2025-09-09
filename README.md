@@ -1,1 +1,1 @@
-This repository has migrated to https://github.com/cheetah-lang/cheetah
+This repository has migrated to https://github.com/cheetah-lang/flashformer
